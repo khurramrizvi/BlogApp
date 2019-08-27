@@ -19,9 +19,13 @@ samples, guidance on mobile development, and a full API reference.
 
 <table>
   <tr><td>
-    <h3>Concept UI by Adarsh Goldar </h3>
-    <a href = "https://dribbble.com/shots/6918712-Blog"></a></td></tr>
+    <h3>Concept UI by Adarsh Goldar</h3>
+    </td></tr>
   <tr><td><img src = "ss/blog.jpg"></td></tr>
+  <tr><td>
+  <h5>Dribble: https://dribbble.com/shots/6918712-Blog</h5>
+  </tr>
+  </td>
  </table>
 
 #### Flutter App Screenshots
